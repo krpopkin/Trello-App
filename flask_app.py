@@ -1,11 +1,12 @@
-from flask import Flask
+from flask import Flask, request, jsonify, render_template
 
 app = Flask(__name__)
 
 
+# default page
 @app.route('/')
-def hello_world():
-    return 'Hello from us to them!'
+def home():
+    return render_template('index.html')
 
 
 if __name__ == '__main__':
