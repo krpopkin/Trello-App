@@ -3,7 +3,7 @@ from flask import Flask, request, jsonify, render_template
 app = Flask(__name__)
 
 
-# default page
+# default page that will be used for additional development
 @app.route('/')
 def home():
     return render_template('index.html')
