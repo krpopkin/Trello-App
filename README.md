@@ -36,12 +36,6 @@ This repo includes the core Flask app, Jinja2 templates, custom CSS, and a sampl
 - **Minimal dependencies**: Flask, Gunicorn.  
 - **Heroku-ready** with a `Procfile`.  
 
-## Demo
-
-![Screenshot of the dropdown form in action](assets/screenshot.png)
-
-## Getting Started
-
 ### Prerequisites
 
 - Python 3.7+  
