@@ -6,8 +6,6 @@ A simple Flask application to generate status reports from your Trello boards.
 
 - [About](#about)  
 - [Features](#features)  
-- [Demo](#demo)  
-- [Getting Started](#getting-started)  
   - [Prerequisites](#prerequisites)  
   - [Installation](#installation)  
   - [Configuration](#configuration)  
